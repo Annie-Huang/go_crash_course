@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=SqrbIlUwR0U
+https://github.com/bradtraversy/go_crash_course
+https://github.com/Annie-Huang/go_crash_course
+
+https://golang.org/
+https://golang.org/doc/
+https://golang.org/doc/code.html
+https://godoc.org/
+
+================================================================
