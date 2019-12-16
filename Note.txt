@@ -11,7 +11,7 @@ https://play.golang.org/                << playground for go.
 https://golang.org/cmd/go/
 https://godoc.org/github.com/aws/aws-sdk-go/aws
 https://golang.org/pkg/fmt/
-
+https://stackoverflow.com/questions/1752414/how-to-reverse-a-string-in-go
 
 
 Go = C + strings + garbage collection + concurrency.
