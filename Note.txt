@@ -4,7 +4,36 @@ https://github.com/Annie-Huang/go_crash_course
 
 https://golang.org/
 https://golang.org/doc/
-https://golang.org/doc/code.html
+https://golang.org/doc/code.html        << The structure is suggested here.
 https://godoc.org/
 
+
 ================================================================
+
+Annie@DESKTOP-BH46C1T MINGW64 ~
+$ go version
+go version go1.13.5 windows/amd64
+
+Annie@DESKTOP-BH46C1T MINGW64 ~
+$ go env
+...
+set GOPATH=C:\Users\Annie\go
+...
+
+We will keep go default directory as default.
+
+==================================================================
+
+
+Suggest structure:
+C:\Users\Annie\go
+    - bin
+    - src
+        - github.com
+            Annie-Huang
+                -go_project_1               <<< we have go_crash_course in this level.
+                    #project files
+                -go_project_2
+                    #project files
+    - pkg
+
