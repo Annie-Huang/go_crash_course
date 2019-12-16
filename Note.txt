@@ -52,10 +52,18 @@ $ go get github.com/aws/aws-sdk-go/aws
     << keep in mind it takes a while to finish installation.
     << After it finishes, you can see C:\Users\Annie\go\pkg\windows_amd64\github.com\aws\aws-sdk-go is created.
 
+------------
 
 Annie@DESKTOP-BH46C1T MINGW64 ~/go/src/github.com/Annie-Huang/go_crash_course/01_hello (master)
 $ go run main.go
 Hello World
 
+-------------
 
+Annie@DESKTOP-BH46C1T MINGW64 ~/go/src/github.com/Annie-Huang/go_crash_course/01_hello (master)
+$ go install
+    << will create the C:\Users\Annie\go\bin\01_hello.exe file
 
+Annie@DESKTOP-BH46C1T MINGW64 ~/go/bin
+$ ./01_hello.exe
+Hello World
