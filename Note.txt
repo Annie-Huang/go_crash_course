@@ -76,3 +76,5 @@ Hello World
 
 
 C:\Users\Annie\go\src\github.com\Annie-Huang\go_crash_course\02_vars>go run main.go
+http://localhost:3000/
+http://localhost:3000/about
